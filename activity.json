@@ -1,0 +1,172 @@
+[{
+  "id": 4520,
+  "userProviderAddress": "0x71cb91768308eb48030eca064a0b75c5638a1250",
+  "createdDate": "2023-05-31T20:15:37.104Z",
+  "currencyConversionRates": {
+    "USDC": "1866.54",
+    "MATIC": "0.8894"
+  },
+  "operation": "NFT_SOLD",
+  "contract": {
+    "imageUrl": "https://i.seadn.io/gae/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB?w=500&auto=format",
+    "name": "BoredApeYachtClub",
+    "aboutInformation": "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.",
+    "protocol": "ERC721",
+    "chainId": 5,
+    "address": "0xbb36b6ccb2421a48998776bddf0a02621ee359e6",
+    "scammed": false,
+    "verified": true
+  },
+  "displayCurrency": "USDC",
+  "asset": {
+    "tokenId": 1299,
+    "image": "https://ipfs.io/ipfs/QmbqKyuw4Voec6i3A64kwsHcM1GUAgbraNwL3qbaxycfJm",
+    "likes": 0,
+    "name": "BoredApeYachtClub#1299",
+    "uri": "https://alchemy.mypinata.cloud/ipfs/QmeSjSinHpPnmXmspMjwiXyN6zS4E9zccariGR3jxcaWtq/1299",
+    "tenant": {
+      "address": "0x6ac25336eb4884899bf5b12ae8dd57409e6580ec",
+      "alias": "Shaak Ti-scarlet",
+      "vault": {
+        "address": "0x9378e54752b0a024f742194f83f969242ab88040"
+      }
+    },
+    "owner": {
+      "address": "0x71cb91768308eb48030eca064a0b75c5638a1250",
+      "alias": "Watto-bronze1",
+      "vault": {
+        "address": "0x019518b01df9b62a6679033e4fc9eabe20b0b695"
+      }
+    },
+    "contract": {
+      "imageUrl": "https://i.seadn.io/gae/Ju9CkWtV-1Okvf45wo8UctR-M9He2PjILP0oOvxE89AyiPPGtrR3gysu1Zgy0hjd2xKIgjJJtWIc0ybj4Vd7wv8t3pxDGHoJBzDB?w=500&auto=format",
+      "name": "BoredApeYachtClub",
+      "aboutInformation": "The Bored Ape Yacht Club is a collection of 10,000 unique Bored Ape NFTs— unique digital collectibles living on the Ethereum blockchain. Your Bored Ape doubles as your Yacht Club membership card, and grants access to members-only benefits, the first of which is access to THE BATHROOM, a collaborative graffiti board. Future areas and perks can be unlocked by the community through roadmap activation. Visit www.BoredApeYachtClub.com for more details.",
+      "protocol": "ERC721",
+      "chainId": 5,
+      "address": "0xbb36b6ccb2421a48998776bddf0a02621ee359e6",
+      "scammed": false,
+      "verified": true
+    }
+  },
+  "publication": {
+    "id": 1272,
+    "status": "SOLD",
+    "sellPrice": "12",
+    "rentPrice": "0",
+    "downPayment": "2.4",
+    "startTime": "2023-05-22T20:56:35.686Z",
+    "endTime": "2050-10-07T20:56:35.686Z",
+    "operationType": "BUY_NOW_PAY_LATER",
+    "installments": [
+      3,
+      6,
+      9,
+      12
+    ],
+    "currency": "USDC",
+    "publicationTransactions": [
+      {
+        "id": 774,
+        "publicationId": 1272,
+        "hash": "0x687937e6d45d8c20ad16a58f0bd35e5f18af8e15c10dde6cda2b8d8acc995f00",
+        "downPayment": null,
+        "startTime": "2023-05-31T20:15:36.949Z",
+        "endTime": "2023-09-19T20:57:37.134Z",
+        "operationType": "BUY_NOW_PAY_LATER",
+        "transactionType": "PAYMENT",
+        "payment": "3.2",
+        "tenant": {
+          "address": "0x6ac25336eb4884899bf5b12ae8dd57409e6580ec",
+          "alias": "Shaak Ti-scarlet",
+          "vault": {
+            "address": "0x9378e54752b0a024f742194f83f969242ab88040"
+          }
+        },
+        "owner": {
+          "address": "0x71cb91768308eb48030eca064a0b75c5638a1250",
+          "alias": "Watto-bronze1",
+          "vault": {
+            "address": "0x019518b01df9b62a6679033e4fc9eabe20b0b695"
+          }
+        }
+      },
+      {
+        "id": 773,
+        "publicationId": 1272,
+        "hash": "0xc6ca48c4c4e0b7d582a847eea6c6434ef56202c92b56f96a8b4f8da526da4747",
+        "downPayment": null,
+        "startTime": "2023-05-31T20:10:25.693Z",
+        "endTime": "2023-08-20T20:57:37.134Z",
+        "operationType": "BUY_NOW_PAY_LATER",
+        "transactionType": "PAYMENT",
+        "payment": "3.2",
+        "tenant": {
+          "address": "0x6ac25336eb4884899bf5b12ae8dd57409e6580ec",
+          "alias": "Shaak Ti-scarlet",
+          "vault": {
+            "address": "0x9378e54752b0a024f742194f83f969242ab88040"
+          }
+        },
+        "owner": {
+          "address": "0x71cb91768308eb48030eca064a0b75c5638a1250",
+          "alias": "Watto-bronze1",
+          "vault": {
+            "address": "0x019518b01df9b62a6679033e4fc9eabe20b0b695"
+          }
+        }
+      },
+      {
+        "id": 742,
+        "publicationId": 1272,
+        "hash": "0xfc13abb28abfd8128f6e4bad195a097e5d37aaba0556de04e082bce67fece82d",
+        "downPayment": null,
+        "startTime": "2023-05-22T20:58:37.873Z",
+        "endTime": "2023-07-21T20:57:37.134Z",
+        "operationType": "BUY_NOW_PAY_LATER",
+        "transactionType": "PAYMENT",
+        "payment": "0.000000032",
+        "tenant": {
+          "address": "0x6ac25336eb4884899bf5b12ae8dd57409e6580ec",
+          "alias": "Shaak Ti-scarlet",
+          "vault": {
+            "address": "0x9378e54752b0a024f742194f83f969242ab88040"
+          }
+        },
+        "owner": {
+          "address": "0x71cb91768308eb48030eca064a0b75c5638a1250",
+          "alias": "Watto-bronze1",
+          "vault": {
+            "address": "0x019518b01df9b62a6679033e4fc9eabe20b0b695"
+          }
+        }
+      },
+      {
+        "id": 741,
+        "publicationId": 1272,
+        "hash": "0xc3fbfcf13b9a324f85cac24d0c27f65bdef5aba4d1211117cd5988bd2381ec51",
+        "sellPrice": "12",
+        "downPayment": "2.4",
+        "startTime": "2023-05-22T20:57:37.134Z",
+        "endTime": "2023-06-21T20:57:37.134Z",
+        "operationType": "BUY_NOW_PAY_LATER",
+        "transactionType": "DOWN_PAYMENT",
+        "paymentTerm": "3",
+        "tenant": {
+          "address": "0x6ac25336eb4884899bf5b12ae8dd57409e6580ec",
+          "alias": "Shaak Ti-scarlet",
+          "vault": {
+            "address": "0x9378e54752b0a024f742194f83f969242ab88040"
+          }
+        },
+        "owner": {
+          "address": "0x71cb91768308eb48030eca064a0b75c5638a1250",
+          "alias": "Watto-bronze1",
+          "vault": {
+            "address": "0x019518b01df9b62a6679033e4fc9eabe20b0b695"
+          }
+        }
+      }
+    ]
+  }
+}]
